@@ -1,4 +1,5 @@
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10282/badge)](https://www.bestpractices.dev/projects/10282)
+[![OpenSSF Best Practices](https://www.bestpractices.de<img width="183" alt="Screenshot 2025-03-25 at 11 23 40 AM" src="https://github.com/user-attachments/assets/fe98cbc7-8891-4e37-a157-e0de5780fe8b" />
+v/projects/10282/badge)](https://www.bestpractices.dev/projects/10282)
 
 
 <div style="display: flex; justify-content: space-around;">
