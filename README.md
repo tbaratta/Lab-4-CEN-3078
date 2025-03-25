@@ -29,3 +29,21 @@ const tbaratta = {
     jokeAnswer: "Because the light attracts bugs"
 };
 
+# Contributing to [Project Name] 🎯
+
+Thank you for your interest in contributing! Before submitting a pull request, please review the guidelines below.
+
+## 📌 Contribution Requirements
+
+- Follow the **[coding standard](URL_TO_CODING_STANDARD)** (e.g., Airbnb JavaScript Style Guide, PEP8 for Python).
+- Write clear, concise commit messages.
+- Ensure all new code includes relevant tests.
+- Run `npm test` (or relevant command) before submitting a PR.
+- Adhere to the repository's **Code of Conduct**.
+
+## 🚀 How to Contribute
+1. **Fork** the repository.
+2. **Clone** your fork:  
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+
