@@ -1,3 +1,7 @@
+You can show your badge status by embedding this in your markdown file:
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10282/badge)](https://www.bestpractices.dev/projects/10282)
+
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
 </div>
