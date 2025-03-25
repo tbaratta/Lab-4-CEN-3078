@@ -1,7 +1,6 @@
 
 <img width="204" alt="Screenshot 2025-03-25 at 11 23 56 AM" src="https://github.com/user-attachments/assets/b798b2a3-2815-4edb-8c1f-d3d3a39158fc" />
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10282/badge)](https://www.bestpractices.dev/projects/10282)
 <div style="display: flex; justify-content: space-around;">
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
 </div>
