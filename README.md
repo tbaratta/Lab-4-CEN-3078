@@ -1,4 +1,3 @@
-You can show your badge status by embedding this in your markdown file:
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10282/badge)](https://www.bestpractices.dev/projects/10282)
 
 
