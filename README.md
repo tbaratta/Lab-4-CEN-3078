@@ -42,7 +42,15 @@ Thank you for your interest in contributing! Before submitting a pull request, p
 - **Continuous Security Monitoring:**  
   Configured the CI/CD pipeline to run security scans with each code change. Vulnerabilities are flagged automatically, allowing for quicker remediation of issues before they reach production.
 
-### Results:
-By addressing these issues, the project's overall code security has been significantly improved, ensuring that the code is both maintainable and secure against potential threats.
+### 🔒 Secure Code Quality
+- Implemented automated **static analysis** as part of the CI pipeline to detect vulnerabilities and bad coding practices early in development.
+- Enforced **secure coding practices training** to improve awareness and ensure high-quality, security-compliant code submissions.
 
+### 🛡️ Vulnerability Management
+- Integrated **automated vulnerability scanning tools** (e.g., [Snyk](https://snyk.io/)) to detect security flaws in dependencies.
+- Established a **policy for regular dependency updates** and timely patching of known vulnerabilities to reduce security risks.
+
+### 🏗️ Software Composition Analysis (SCA)
+- Adopted **SCA tools** such as [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/) and Black Duck to audit open-source dependencies.
+- Ensured that **third-party libraries are regularly reviewed and updated** to align with the latest security patches and best practices.
 
