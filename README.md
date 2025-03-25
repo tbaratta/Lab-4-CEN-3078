@@ -35,7 +35,6 @@ Thank you for your interest in contributing! Before submitting a pull request, p
 
 📌 Contribution Requirements
 
-- Follow the **[coding standard](https://blog.codacy.com/coding-standards#:~:text=Coding%20standards%2C%20also%20known%20as,and%20facilitate%20collaboration%20among%20developers.)** (e.g., Airbnb JavaScript Style Guide, PEP8 for Python).
 - Write clear, concise commit messages.
 - Ensure all new code includes relevant tests.
 - Run `npm test` (or relevant command) before submitting a PR.
