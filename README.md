@@ -47,3 +47,26 @@ Thank you for your interest in contributing! Before submitting a pull request, p
    ```bash
    git clone https://github.com/tbaratta/Lab-4-CEN-3078
 
+## Code Security Practices
+
+### Open Issues Addressed:
+- **Description:**  
+  The project initially had open issues related to code security, including missing code review procedures and weak secure coding practices.
+
+### Action Taken:
+- **Static Analysis Integration:**  
+  Integrated static analysis tools like [SonarQube](https://www.sonarqube.org/) to automatically scan for security vulnerabilities, bad coding practices, and potential code smells. This helps in identifying issues early in the development process.
+  
+- **Code Review Process:**  
+  Enforced a mandatory code review process for all pull requests (PRs) to ensure that all code changes adhere to secure coding standards. Code is reviewed for potential vulnerabilities, performance issues, and overall code quality.
+
+- **Security Best Practices:**  
+  Provided the development team with guidelines on secure coding practices, ensuring all team members are aware of common security pitfalls and how to avoid them. This includes proper handling of sensitive data, input validation, and avoiding common security risks like SQL injection and cross-site scripting (XSS).
+
+- **Continuous Security Monitoring:**  
+  Configured the CI/CD pipeline to run security scans with each code change. Vulnerabilities are flagged automatically, allowing for quicker remediation of issues before they reach production.
+
+### Results:
+By addressing these issues, the project's overall code security has been significantly improved, ensuring that the code is both maintainable and secure against potential threats.
+
+
