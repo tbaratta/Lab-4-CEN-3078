@@ -30,11 +30,6 @@ Thank you for your interest in contributing! Before submitting a pull request, p
 
 ## Code Security Practices
 
-### Open Issues Addressed:
-- **Description:**  
-  The project initially had open issues related to code security, including missing code review procedures and weak secure coding practices.
-
-### Action Taken:
 - **Static Analysis Integration:**  
   Integrated static analysis tools like [SonarQube](https://www.sonarqube.org/) to automatically scan for security vulnerabilities, bad coding practices, and potential code smells. This helps in identifying issues early in the development process.
   
