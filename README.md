@@ -1,6 +1,6 @@
 
 <img width="200" alt="Screenshot 2025-03-25 at 11 23 56 AM" src="https://github.com/user-attachments/assets/b798b2a3-2815-4edb-8c1f-d3d3a39158fc" />
-<img width="200" alt="Screenshot 2025-03-25 at 11 38 46 AM" src="https://github.com/user-attachments/assets/5fdee297-b839-40c1-b31c-17ac932a01d0" />
+<img width="200" height="150" alt="Screenshot 2025-03-25 at 11 38 46 AM" src="https://github.com/user-attachments/assets/5fdee297-b839-40c1-b31c-17ac932a01d0" />
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://raw.githubusercontent.com/tbaratta/tbaratta/main/images/chicago.jpg" alt="hello_world" width="650" height="320">
