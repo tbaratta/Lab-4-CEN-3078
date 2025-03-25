@@ -29,21 +29,21 @@ const tbaratta = {
     jokeAnswer: "Because the light attracts bugs"
 };
 
-# Contributing to [Project Name] 🎯
+Contributing to Portfolio 🎯
 
 Thank you for your interest in contributing! Before submitting a pull request, please review the guidelines below.
 
-## 📌 Contribution Requirements
+📌 Contribution Requirements
 
-- Follow the **[coding standard](URL_TO_CODING_STANDARD)** (e.g., Airbnb JavaScript Style Guide, PEP8 for Python).
+- Follow the **[coding standard](https://blog.codacy.com/coding-standards#:~:text=Coding%20standards%2C%20also%20known%20as,and%20facilitate%20collaboration%20among%20developers.)** (e.g., Airbnb JavaScript Style Guide, PEP8 for Python).
 - Write clear, concise commit messages.
 - Ensure all new code includes relevant tests.
 - Run `npm test` (or relevant command) before submitting a PR.
 - Adhere to the repository's **Code of Conduct**.
 
-## 🚀 How to Contribute
+🚀 How to Contribute
 1. **Fork** the repository.
 2. **Clone** your fork:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git clone https://github.com/tbaratta/Lab-4-CEN-3078
 
